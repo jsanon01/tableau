@@ -3,7 +3,11 @@
 
 ### Introduction
 
-Tableau Software is an American interactive data visualization software company focused on business intelligence. It was founded in 2003 in Mountain View.
+Founded in 2003 in Mountain View, Tableau Software is an American interactive data visualization software company focused on business intelligence.  
+
+Deploy in the cloud, on-premises, or natively integrate with Salesforce CRM. Connect to all of your data with fully integrated AI/ML capabilities, governance and data management, visual storytelling and collaboration.  with Tableau.
+
+### Simply said, Tableau is the world's broadest, deepest analytics platform.
 
 <!-- 
 
