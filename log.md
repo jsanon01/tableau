@@ -7,6 +7,8 @@ Founded in 2003 in Mountain View, Tableau Software is an American interactive da
 
 Deploy in the cloud, on-premises, or natively integrate with Salesforce CRM. Connect to all of your data with fully integrated AI/ML capabilities, governance and data management, visual storytelling and collaboration.  with Tableau.
 
+![Tableau](https://github.com/jsanon01/tableau/blob/main/images/tableau.png)
+
 ### Tableau has 3 main parts or sections:
 - Connect (left pane) --> to different file format or DB servers 
 - Open (middle pane) --> is where workbooks and worksheets take place
