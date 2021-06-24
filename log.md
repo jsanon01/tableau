@@ -43,11 +43,15 @@ Many functions in Tableau use date_part, which is a constant string argument.
 
 The valid date_part values that we can use are:
 
-- Year => 4-digit year                      - Quarter => 1-4
-- Month => 1-12                             - Day => 1-31
-- Weekday => 1-7                            - Week => 1-52
-- Hour => 0-23                              - Minute => 0-59
-- Second => 0-60
+- Year      => 4-digit year                      
+- Quarter   => 1-4
+- Month     => 1-12                             
+- Day       => 1-31
+- Weekday   => 1-7                            
+- Week      => 1-52
+- Hour      => 0-23                              
+- Minute    => 0-59
+- Second    => 0-60
 
 <!-- 
 #### DATEPART not only is "discrete by default" but also returns an integer.
