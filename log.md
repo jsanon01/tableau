@@ -14,10 +14,46 @@ Deploy in the cloud, on-premises, or natively integrate with Salesforce CRM. Con
 - Open (middle pane) --> is where workbooks and worksheets take place
 - Discover (right pane) --> contains various links such as training, get started ...
 
+### Data Types
 
+Tableau uses the following Data Types along with their icons:
+
+- String        - Number            - Boolean
+
+- Date          - Date & Time       - Geographic
+
+
+#### It is possible to convert some fields from one type to another.
+
+#### => Dashboard's purpose in Tableau is to tell a story, which contains data, visuals, and narrative.
 #### => Workbooks contain various dashboards and visualizations
 #### => Discover pane is like a gold mine for Tableau to learn tips and tricks.
+
+
+### Relevant Questions about the storytelling
+
+- Who is our audience?
+- What is our purpose?
+- What data do we have?
+
 <!-- 
+### Values of date_part
+
+Many functions in Tableau use data_part, which is a constant string argument.
+
+The valid date_part values that we can use are:
+
+- Year => 4-digit year          - Quarter => 1-4
+- Month => 1-12                 - Day => 1-31
+- Weekday => 1-7                - Week => 1-52
+- Hour => 0-23                  - Minute => 0-59
+- Second => 0-60
+
+#### DATEPART not only is "discrete by default" but also returns an integer.
+#### DATETRUNC not only is "continuous by default" but also use rounding operations.
+
+
+
 - Join is done at the row level.
 
 - Blending is done at the agrgegation level.
