@@ -36,10 +36,10 @@ Tableau uses the following Data Types along with their icons:
 - What is our purpose?
 - What data do we have?
 
-<!-- 
+
 ### Values of date_part
 
-Many functions in Tableau use data_part, which is a constant string argument.
+Many functions in Tableau use date_part, which is a constant string argument.
 
 The valid date_part values that we can use are:
 
@@ -49,6 +49,7 @@ The valid date_part values that we can use are:
 - Hour => 0-23                  - Minute => 0-59
 - Second => 0-60
 
+<!-- 
 #### DATEPART not only is "discrete by default" but also returns an integer.
 #### DATETRUNC not only is "continuous by default" but also use rounding operations.
 
