@@ -21,9 +21,28 @@ Tableau has 3 different types of cancases or pages that we can use to create and
 - Dashboards --> are suitable to combine various worksheets.
 - Stories --> are sheets that contain sequence of worksheets and dashboards that work together to convey information.
 
+## Example of Worksheet
+![Worksheet](https://github.com/jsanon01/tableau/blob/main/images/worksheet.png)
+
+## Example of Dashboard (with 3 worksheets)
+![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
+<!--
+### Columns = dimension (not aggregated) vs Rows = measure (aggregated)
+
+Columns are not only X-axis but also represent dimemsions.
+
+Rows are not only Y-axis nut also represent measures.
+
+#### Blue means discrete values and deals with a list or category. | Such example is a car's gear number with only 5 speeds.
+
+#### Green means measure values and deals with a range or continuous values | Such example is the current speed of a car
+
+#### Measure can also be used for mathematical operations.
+
+-->
 ### Data Types
 
-Tableau uses the following Data Types along with their icons:
+Tableau uses the following Data Types:
 
 - String        - Number            - Boolean
 
