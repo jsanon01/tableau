@@ -14,6 +14,13 @@ Deploy in the cloud, on-premises, or natively integrate with Salesforce CRM. Con
 - Open (middle pane) --> is where workbooks and worksheets take place
 - Discover (right pane) --> contains various links such as training, get started ...
 
+### Tableau has 3 types of canvases or pages
+Tableau has 3 different types of cancases or pages that we can use to create and present data analysis results:
+
+- Worksheets --> are good to create visualizations
+- Dashboards --> are suitable to combine various worksheets.
+- Stories --> are sheets that contain sequence of worksheets and dashboards that work together to convey information.
+
 ### Data Types
 
 Tableau uses the following Data Types along with their icons:
