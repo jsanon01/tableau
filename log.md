@@ -29,8 +29,9 @@ Tableau has 3 different types of cancases or pages that we can use to create and
 
 #### => Dashboard Interaction 
 
-If you click on the funels of the 3 worksheets, they will interact together.
 ![Funel](https://github.com/jsanon01/tableau/blob/main/images/funel.png)
+
+If you click on the funels of the 3 worksheets, they will interact together.
 When clicking on specific state, you'll have some interactions: 
 - Sales by States (interaction of specific state)
 - Coffee Sales (sales by specific state)
