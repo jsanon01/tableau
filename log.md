@@ -26,12 +26,26 @@ Tableau has 3 different types of cancases or pages that we can use to create and
 
 ## Example of Dashboard (with 3 worksheets)
 ![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
+
+#### => Dashboard Interaction 
+
+If you click on the funels of the 3 worksheets, they will interact together.
+![Funel](https://github.com/jsanon01/tableau/blob/main/images/funel.png)
+When clicking on specific state, you'll have some interactions: 
+- Sales by States (interaction of specific state)
+- Coffee Sales (sales by specific state)
+- Seasonal Fluctuation (fluctuation of clicked state)
+
 <!--
 ### Columns = dimension (not aggregated) vs Rows = measure (aggregated)
 
-Columns are not only X-axis but also represent dimemsions.
+Columns are not only X-axis but also represent dimemsions, which categorize or segments the data.
+
+Dimensions are qualitative in nature and mathematical operations like SUM(), AVG(), can't be done on them. 
 
 Rows are not only Y-axis nut also represent measures.
+
+Measures always represent numerical data meaning operations and aggregations can be performed on them.
 
 #### Blue means discrete values and deals with a list or category. | Such example is a car's gear number with only 5 speeds.
 
