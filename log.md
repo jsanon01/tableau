@@ -27,7 +27,7 @@ Tableau has 3 different types of cancases or pages that we can use to create and
 ## Example of Dashboard (with 3 worksheets)
 ![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
 
-#### => Dashboard Interaction 
+### Dashboard Interaction 
 
 ![Funel](https://github.com/jsanon01/tableau/blob/main/images/funel.png)
 
