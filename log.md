@@ -24,9 +24,6 @@ Tableau has 3 different types of cancases or pages that we can use to create and
 ## Example of Worksheet
 ![Worksheet](https://github.com/jsanon01/tableau/blob/main/images/worksheet.png)
 
-## Example of Dashboard (with 3 worksheets)
-![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
-
 ### Dashboard Interaction 
 
 ![Funel](https://github.com/jsanon01/tableau/blob/main/images/funel.png)
@@ -36,6 +33,11 @@ When clicking on specific state, you'll have some interactions:
 - Sales by States (interaction of specific state)
 - Coffee Sales (sales by specific state)
 - Seasonal Fluctuation (fluctuation of clicked state)
+
+
+## Example of Dashboard (with 3 worksheets)
+![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
+
 
 <!--
 ### Columns = dimension (not aggregated) vs Rows = measure (aggregated)
