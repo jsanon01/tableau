@@ -39,11 +39,11 @@ When clicking on specific state, you'll have some interactions:
 ![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
 
 
-<!--
+
 ### Columns = dimension (not aggregated) vs Rows = measure (aggregated)
 
 Columns are not only X-axis but also represent dimemsions, which categorize or segments the data.
-
+<!--
 Dimensions are qualitative in nature and mathematical operations like SUM(), AVG(), can't be done on them. 
 
 Rows are not only Y-axis nut also represent measures.
@@ -61,9 +61,12 @@ Measures always represent numerical data meaning operations and aggregations can
 
 Tableau uses the following Data Types:
 
-- String        - Number            - Boolean
-
-- Date          - Date & Time       - Geographic
+- String        
+- Number            
+- Boolean
+- Date          
+- Date & Time       
+- Geographic
 
 
 #### It is possible to convert some fields from one type to another.
