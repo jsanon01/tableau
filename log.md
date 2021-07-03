@@ -46,7 +46,7 @@ Columns are not only X-axis but also represent dimemsions, which categorize or s
 
 Dimensions are qualitative in nature and mathematical operations like SUM(), AVG(), can't be done on them. 
 
-#### Rows are not only Y-axis nut also represent measures.
+### Rows are not only Y-axis nut also represent measures.
 <!--
 Measures always represent numerical data meaning operations and aggregations can be performed on them.
 
