@@ -45,9 +45,9 @@ When clicking on specific state, you'll have some interactions:
 Columns are not only X-axis but also represent dimemsions, which categorize or segments the data.
 
 Dimensions are qualitative in nature and mathematical operations like SUM(), AVG(), can't be done on them. 
-<!--
-Rows are not only Y-axis nut also represent measures.
 
+#### Rows are not only Y-axis nut also represent measures.
+<!--
 Measures always represent numerical data meaning operations and aggregations can be performed on them.
 
 #### Blue means discrete values and deals with a list or category. | Such example is a car's gear number with only 5 speeds.
