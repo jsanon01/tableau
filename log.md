@@ -36,6 +36,7 @@ When clicking on specific state, you'll have some interactions:
 
 
 ## Example of Dashboard (with 3 worksheets)
+
 ![Dashboard](https://github.com/jsanon01/tableau/blob/main/images/dashboard.png)
 
 
